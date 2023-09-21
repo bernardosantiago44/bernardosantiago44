@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bernardosantiago44
 - 👀 I’m interested in iOS and web development.
 - 🌱 I’m currently learning SwiftUI
+  
   I am an undergraduate student of B.S. in Computer Science and Information Technologies at Tecnológico de Monterrey.
   
 
