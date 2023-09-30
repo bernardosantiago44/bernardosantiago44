@@ -9,6 +9,10 @@
   # Elementals
   Elementals is an interactive periodic table for iOS. You can visualize important properties for each of the 119 chemical elements.
   The public repository of this file is available [here](https://github.com/bernardosantiago44/periodic-table)
+
+  # Bill Divider
+  The Bill Divider is a powerful iOS application designed to separrate your bills with other friends. You can create and view records,
+  split bills with different configurations, select currencies, and more! You can view it [here](https://github.com/bernardosantiago44/bill-divider)
   
 
 <!---
