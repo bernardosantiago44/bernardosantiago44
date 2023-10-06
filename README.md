@@ -22,9 +22,10 @@
   - Languages I am interested in: `Swift`  `Java`  `Python`  `MATLAB`
   - Languages I want to learn: `C` `C++`  `SQL`
   - Other skills I want to learn: Databases, cloud services, servers and networks, machine learning and AI.
-
-![Hi](https://outsourceworkers.com.au/wp-content/uploads/2020/07/Custom-Database-Business-Knowledge-Image-in-Outsource-Workers-Database-Systems-Illustration-Image.png) 
-  
+  <div>
+    <img src="https://www.benchmarkitservices.com/wp-content/uploads/2019/12/backup-google-cloud-vms-to-different-region.png" width="400">
+    <img src="https://outsourceworkers.com.au/wp-content/uploads/2020/07/Custom-Database-Business-Knowledge-Image-in-Outsource-Workers-Database-Systems-Illustration-Image.png" width="400">
+  </div>
 
 <!---
 bernardosantiago44/bernardosantiago44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
