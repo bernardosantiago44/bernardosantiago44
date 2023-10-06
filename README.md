@@ -2,7 +2,7 @@
 - 👀 I like Data Science.
 - 🌱 I’m currently developing in SwiftUI
   
-  I am an undergraduate student of B.S. in Computer Science and Information Technologies at Tecnológico de Monterrey.
+  I am a freshman undergraduate student of B.S. in Computer Science and Information Technologies at Tecnológico de Monterrey.
 
   I have created 2 mobile applications for iOS using SwiftUI.
 
