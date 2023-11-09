@@ -25,7 +25,7 @@ The Bill Divider is a powerful iOS application designed to separrate your bills 
 split bills with different configurations, select currencies, and more! You can view it [here](https://github.com/bernardosantiago44/bill-divider).
 
 <a href="https://github.com/bernardosantiago44/bill-divider">
-<img src="https://github.com/bernardosantiago44/BIll-Divider/blob/main/App_store_1024_1x.png" width="100">
+<img src="https://github.com/bernardosantiago44/BIll-Divider/blob/main/Divider_Isometric.png" width="100">
 </a>
 
 ---
