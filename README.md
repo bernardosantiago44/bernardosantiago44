@@ -17,7 +17,7 @@ Elementals is an interactive periodic table for iOS. You can visualize important
 The public repository of this file is available [here](https://github.com/bernardosantiago44/periodic-table).
 
 <a href="https://github.com/bernardosantiago44/periodic-table">
-<img src="https://github.com/bernardosantiago44/periodic-table/blob/main/documentation_images/Appicon.png" width="100">
+<img src="https://github.com/bernardosantiago44/periodic-table/blob/main/documentation_images/Elementals_Isometric.png" width="100">
 </a>
 
 # Bill Divider
